@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pandas
+giza_datasets
+tensorflow
+scikit-learn
